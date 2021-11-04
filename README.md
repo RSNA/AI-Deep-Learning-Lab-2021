@@ -18,7 +18,7 @@ We recommend that you use a computer with a recent vintage processor running the
 
 ## Lessons
 
-Lesson : [Pneumonia Detection Model Building (Beginner friendly)](https://colab.research.google.com/gist/georgezero/8f7a8f3463fa7db8f89a7c7bb4c1b6cc/rsna-2021-deep-learning-lab-pneumonia-detection-model-building.ipynb)
+Lesson : <a href="Pneumonia Detection Model Building (Beginner friendly)" target="_blank">https://colab.research.google.com/gist/georgezero/8f7a8f3463fa7db8f89a7c7bb4c1b6cc/rsna-2021-deep-learning-lab-pneumonia-detection-model-building.ipynb</a>
 
 Lesson : [MedNIST Exam Classification with MONAI (Beginner friendly)](https://colab.research.google.com/)
 
