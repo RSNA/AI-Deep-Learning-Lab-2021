@@ -28,7 +28,7 @@ Lesson : [DICOM Data Wrangling with Python (Beginner friendly)](https://colab.re
 Lesson : [CT Body Part Classification (Beginner friendly)](https://colab.research.google.com/)
 
 Lesson : [YOLO: Bounding Box Segmentation &
-Classification](https://colab.research.google.com/)
+Classification](https://colab.research.google.com/github/wfwiggins/AI-Deep-Learning-Lab-2021/blob/yolo-update/sessions/yolo/Train_YOLOv5.ipynb)
 
 Lesson : [Integrating Genomic and Imaging Data
 with TCGA-GBM](https://colab.research.google.com/)
