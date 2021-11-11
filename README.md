@@ -50,7 +50,7 @@ Deep Learning (Beginner friendly)](https://colab.research.google.com/)
 
 Lesson : [Object Detection & Segmentation (Beginner friendly)](https://colab.research.google.com/)
 
-Lesson : [Basics of NLP in Radiology (Beginner friendly)](https://colab.research.google.com/)
+Lesson : [Basics of NLP in Radiology (Beginner friendly)](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/nlp-basics/DLL52_Basics_NLP_Radiology.ipynb)
 
 
 ## Class Schedule
