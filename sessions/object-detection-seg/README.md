@@ -5,5 +5,5 @@
 - Simukayi Mutasa
 
 ## Session Date & Time
-Thursday, December 2, 2021
-9:30 AM
+Monday, November 29, 2021
+3:00 PM
