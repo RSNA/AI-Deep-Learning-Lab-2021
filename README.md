@@ -41,8 +41,6 @@ TCIA & IDC (Beginner friendly)](https://colab.research.google.com/)
 Lesson : [NLP: Text Classification with
 RNNs & Transformers](https://colab.research.google.com/)
 
-Lesson : [DICOM In, DICOM Out for Segmentation (Beginner friendly)](https://colab.research.google.com/)
-
 Lesson : [Multimodal Fusion for Pulmonary Embolism Detection Using CTs and Patient EMR](https://colab.research.google.com/)
 
 Lesson : [Data Processing & Curation for
@@ -63,15 +61,14 @@ Lesson : [Basics of NLP in Radiology (Beginner friendly)](https://colab.research
 | Mon 9:30-10:30 am | YOLO: Bounding Box Segmentation & Classification |
 | Mon 11:00 am-12:00 pm | Integrating Genomic and Imaging Data with TCGA-GBM |
 | Mon 1:30-2:30 pm | Generative Adversarial Networks |
+| Mon 3:00-4:00 pm | Object Detection & Segmentation |
 | Mon 4:30-5:30 pm | Pneumonia Detection Model Building - Beginner friendly |
 | Tue 11:00 am-12:00 pm| Working with Public Datasets: TCIA & IDC - Beginner friendly |
 | Tue 3:00-4:00 pm| NLP: Text Classification with RNNs & Transformers |
-| Tue 4:30-5:30 pm | DICOM In, DICOM Out for Segmentation - Beginner friendly |
 | Wed 9:30-10:30 am | Pneumonia Detection Model Building - Beginner friendly; Repeat |
 | Wed 11:00 am-12:00 pm | Working with Public Datasets: TCIA & IDC - Beginner friendly; Repeat |
 | Wed 1:30-2:30 pm | Multimodal Fusion for Pulmonary Embolism Detection Using CTs and Patient EMR |
 | Wed 4:30-5:30 pm | Data Processing & Curation for Deep Learning - Beginner friendly |
-| Thu 9:30-10:30 am | Object Detection & Segmentation |
 | Thu 11:00 am-12:00 pm| Basics of NLP in Radiology - Beginner friendly |
 
 	
