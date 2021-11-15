@@ -38,8 +38,8 @@ Lesson : [Generative Adversarial Networks](https://colab.research.google.com/)
 Lesson : [Working with Public Datasets:
 TCIA & IDC (Beginner friendly)](https://colab.research.google.com/)
 
-Lesson : [NLP: Text Classification with
-RNNs & Transformers](https://colab.research.google.com/)
+Lesson : NLP: Text Classification with
+RNNs & Transformers: [Notebook #1](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/nlp-text-classification/RSNA21_DLL_NLP_RNNs.ipynb), [Notebook #2](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/nlp-text-classification/RSNA21_DLL_NLP_Transformers.ipynb)
 
 Lesson : [Multimodal Fusion for Pulmonary Embolism Detection Using CTs and Patient EMR](https://colab.research.google.com/)
 
