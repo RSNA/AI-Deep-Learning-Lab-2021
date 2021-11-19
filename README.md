@@ -25,7 +25,7 @@ Lesson : [MedNIST Exam Classification with MONAI (Beginner friendly)](https://co
 
 Lesson : [DICOM Data Wrangling with Python (Beginner friendly)](https://colab.research.google.com/)
 
-Lesson : [CT Body Part Classification (Beginner friendly)](https://colab.research.google.com/)
+Lesson : CT Body Part Classification (Beginner friendly): [Notebook #1](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/ct-body-part/train.ipynb), [Notebook #2](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/ct-body-part/inference.ipynb)
 
 Lesson : [YOLO: Bounding Box Segmentation &
 Classification](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/yolo/Train_YOLOv5.ipynb)
@@ -44,7 +44,7 @@ RNNs & Transformers: [Notebook #1](https://colab.research.google.com/github/RSNA
 Lesson : [Multimodal Fusion for Pulmonary Embolism Detection Using CTs and Patient EMR](https://colab.research.google.com/)
 
 Lesson : [Data Processing & Curation for
-Deep Learning (Beginner friendly)](https://colab.research.google.com/)
+Deep Learning (Beginner friendly)](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/Data_Processing_%26_Curation_for_Deep_Learning.ipynb)
 
 Lesson : [Object Detection & Segmentation (Beginner friendly)](https://colab.research.google.com/)
 
