@@ -4,5 +4,4 @@
 - Tom Loefhelm
 
 ## Session Date & Time
-Tuesday, November 30, 2021
-4:30 PM
+Unfortunately, the presenter couldn't make it to present live this year. But feel free to peruse the notebook anyway.
