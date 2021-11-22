@@ -22,11 +22,11 @@ Lesson : [Pneumonia Detection Model Building (Beginner friendly)](https://colab.
 
 Lesson : [MedNIST Exam Classification with MONAI (Beginner friendly)](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/mednist-monai/MedNIST_Classification_MONAI.ipynb)
 
-Lesson : [DICOM Data Wrangling with Python (Beginner friendly)](https://colab.research.google.com/)
+Lesson : [DICOM Data Wrangling with Python (Beginner friendly)]()
 
 Lesson : CT Body Part Classification (Beginner friendly): [Notebook #1](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/ct-body-part/train.ipynb), [Notebook #2](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/ct-body-part/inference.ipynb)
 
-Lesson : [YOLO: Bounding Box Segmentation & Classification](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/yolo/Train_YOLOv5.ipynb)
+Lesson : YOLO: Bounding Box Segmentation & Classification: [Notebook #1](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/yolo/Train_YOLOv5_Practice_Notebook.ipynb), [Notebook #2](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/yolo/Train_YOLOv5_Complete_Notebook.ipynb)
 
 Lesson : [Integrating Genomic and Imaging Data with TCGA-GBM](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/tcga-gbm/RSNA_2021_TCGA_GBM_radiogenomics.ipynb)
 
@@ -34,7 +34,7 @@ Lesson : [Generative Adversarial Networks](https://colab.research.google.com/git
 
 Lesson : [Object Detection & Segmentation (Beginner friendly)](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/object-detection-seg/segmentation.ipynb)
 
-Lesson : [Working with Public Datasets: TCIA & IDC (Beginner friendly)](https://colab.research.google.com/)
+Lesson : [Working with Public Datasets: TCIA & IDC (Beginner friendly)]()
 
 Lesson : NLP: Text Classification with RNNs & Transformers: [Notebook #1](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/nlp-text-classification/RSNA21_DLL_NLP_RNNs.ipynb), [Notebook #2](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/nlp-text-classification/RSNA21_DLL_NLP_Transformers.ipynb)
 
