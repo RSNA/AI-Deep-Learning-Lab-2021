@@ -20,33 +20,28 @@ We recommend that you use a computer with a recent vintage processor running the
 
 Lesson : [Pneumonia Detection Model Building (Beginner friendly)](https://colab.research.google.com/gist/georgezero/8f7a8f3463fa7db8f89a7c7bb4c1b6cc/rsna-2021-deep-learning-lab-pneumonia-detection-model-building.ipynb)
 
-Lesson : [MedNIST Exam Classification with MONAI (Beginner friendly)](https://colab.research.google.com/)
+Lesson : [MedNIST Exam Classification with MONAI (Beginner friendly)](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/mednist-monai/MedNIST_Classification_MONAI.ipynb)
 
+Lesson : DICOM Data Wrangling with Python (Beginner friendly)
 
-Lesson : [DICOM Data Wrangling with Python (Beginner friendly)](https://colab.research.google.com/)
+Lesson : CT Body Part Classification (Beginner friendly): [Notebook #1](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/ct-body-part/train.ipynb), [Notebook #2](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/ct-body-part/inference.ipynb)
 
-Lesson : [CT Body Part Classification (Beginner friendly)](https://colab.research.google.com/)
+Lesson : YOLO: Bounding Box Segmentation & Classification: [Notebook #1](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/yolo/Train_YOLOv5_Practice_Notebook.ipynb), [Notebook #2](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/yolo/Train_YOLOv5_Complete_Notebook.ipynb)
 
-Lesson : [YOLO: Bounding Box Segmentation &
-Classification](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/yolo/Train_YOLOv5.ipynb)
+Lesson : [Integrating Genomic and Imaging Data with TCGA-GBM](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/tcga-gbm/RSNA_2021_TCGA_GBM_radiogenomics.ipynb)
 
-Lesson : [Integrating Genomic and Imaging Data
-with TCGA-GBM](https://colab.research.google.com/)
+Lesson : [Generative Adversarial Networks](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/gans/RSNA2021_DL_Lab_GAN.ipynb)
 
-Lesson : [Generative Adversarial Networks](https://colab.research.google.com/)
+Lesson : [Object Detection & Segmentation (Beginner friendly)](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/object-detection-seg/segmentation.ipynb)
 
 Lesson : [Working with Public Datasets:
 TCIA & IDC (Beginner friendly)](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/tcia-idc/RSNA_2021_IDC_and_TCIA.ipynb)
 
-Lesson : NLP: Text Classification with
-RNNs & Transformers: [Notebook #1](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/nlp-text-classification/RSNA21_DLL_NLP_RNNs.ipynb), [Notebook #2](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/nlp-text-classification/RSNA21_DLL_NLP_Transformers.ipynb)
+Lesson : NLP: Text Classification with RNNs & Transformers: [Notebook #1](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/nlp-text-classification/RSNA21_DLL_NLP_RNNs.ipynb), [Notebook #2](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/nlp-text-classification/RSNA21_DLL_NLP_Transformers.ipynb)
 
-Lesson : [Multimodal Fusion for Pulmonary Embolism Detection Using CTs and Patient EMR](https://colab.research.google.com/)
+Lesson : [Multimodal Fusion for Pulmonary Embolism Detection Using CTs and Patient EMR](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/multi-modal-pe/Multimodal%20Fusion%20for%20PE%20Detection%20(Clean).ipynb)
 
-Lesson : [Data Processing & Curation for
-Deep Learning (Beginner friendly)](https://colab.research.google.com/)
-
-Lesson : [Object Detection & Segmentation (Beginner friendly)](https://colab.research.google.com/)
+Lesson : [Data Processing & Curation for Deep Learning (Beginner friendly)](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/data-curation/Data_Processing_%26_Curation_for_Deep_Learning.ipynb)
 
 Lesson : [Basics of NLP in Radiology (Beginner friendly)](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/nlp-basics/DLL52_Basics_NLP_Radiology.ipynb)
 

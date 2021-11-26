@@ -1,8 +1,8 @@
 # MedNIST Exam Classification with MONAI
 
 ## Presenters
-- Kevin Zhang
-- Jayashree Kalpathy-Cramer
+- Kuan (Kevin) Zhang
+- Bradley J. Erickson 
 
 ## Session Date & Time
 Sunday, November 28, 2021
