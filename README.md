@@ -22,7 +22,7 @@ Lesson : [Pneumonia Detection Model Building (Beginner friendly)](https://colab.
 
 Lesson : [MedNIST Exam Classification with MONAI (Beginner friendly)](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/mednist-monai/MedNIST_Classification_MONAI.ipynb)
 
-Lesson : DICOM Data Wrangling with Python (Beginner friendly)
+Lesson : [DICOM Data Wrangling with Python (Beginner friendly)](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/dicom-wrangling/DataWrangling2021RSNA16.ipynb)
 
 Lesson : CT Body Part Classification (Beginner friendly): [Notebook #1](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/ct-body-part/train.ipynb), [Notebook #2](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/ct-body-part/inference.ipynb)
 
