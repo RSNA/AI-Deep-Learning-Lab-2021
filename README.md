@@ -26,7 +26,7 @@ Lesson : [DICOM Data Wrangling with Python (Beginner friendly)](https://colab.re
 
 Lesson : CT Body Part Classification (Beginner friendly): [Notebook #1](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/ct-body-part/train.ipynb), [Notebook #2](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/ct-body-part/inference.ipynb)
 
-Lesson : YOLO: Bounding Box Segmentation & Classification: [Notebook #1](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/yolo/Train_YOLOv5_Practice_Notebook.ipynb), [Notebook #2](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/yolo/Train_YOLOv5_Complete_Notebook.ipynb)
+Lesson : [YOLO: Bounding Box Segmentation & Classification](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/yolo/Train_YOLOv5_Complete_Notebook.ipynb)
 
 Lesson : [Integrating Genomic and Imaging Data with TCGA-GBM](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2021/blob/main/sessions/tcga-gbm/RSNA_2021_TCGA_GBM_radiogenomics.ipynb)
 
